@@ -119,7 +119,7 @@
                     span Una sociedad en un proceso continuo de cambio.
                   li 
                     i.fas.fa-check-circle.color1
-                    span Un turista actual más consciente de los problemas generados por el turismo masivo.
+                    span Un turista actual es más consciente de los problemas generados por el turismo masivo.
                   li 
                     i.fas.fa-check-circle.color1
                     span Modificaciones en las pautas de comportamiento social.

@@ -75,11 +75,18 @@
       h2 2.1 Los cambios en el turismo 
     .row.justify-content-center.align-items-center.mb-5      
       .col-lg-8.my-3.order-1
-        p(data-aos="fade-down") El turismo sostenible como una actividad orientada a la gestión de todos los recursos de manera que satisfaga las necesidades económicas, sociales y estéticas, respetando al mismo tiempo la integridad cultural, los procesos ecológicos esenciales, la diversidad biológica y los mecanismos de apoyo a la vida. Este tipo de turismo busca conservar los recursos turísticos actuales para las generaciones presentes y futuras.
+        p(data-aos="fade-down").mb-4 El turismo sostenible como una actividad orientada a la gestión de todos los recursos de manera que satisfaga las necesidades económicas, sociales y estéticas, respetando al mismo tiempo la integridad cultural, los procesos ecológicos esenciales, la diversidad biológica y los mecanismos de apoyo a la vida. Este tipo de turismo busca conservar los recursos turísticos actuales para las generaciones presentes y futuras.
 
-        p(data-aos="fade-down") Elementos clave del turismo sostenible según la OMT
+        .row.justify-content-start.mb-4
+          .col-auto(data-aos="flip-down")
+            .list
+              .list__item
+                .list__item__icon
+                  img(src='@/assets/curso/temas/icon.svg', alt='')
+              .list__txt.bgicon.p-0.px-4
+                h3.mb-0 Elementos clave del turismo sostenible según la OMT
 
-        p(data-aos="fade-down") Calidad, continuidad, equilibrio y promoción, junto con rentabilidad económica y una experiencia agradable para el visitante            
+        p(data-aos="fade-down") Calidad, continuidad, equilibrio y promoción, junto con rentabilidad económica y una experiencia agradable para el visitante.            
       .col-lg-4.my-3.order-lg-2            
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/98.png', alt='') 
 
@@ -140,14 +147,14 @@
         .row.justify-content-center
           .col-lg-6.my-2
             h5.mb-4 Durabilidad y Conservación 
-            p El turismo rural debe ser un proceso duradero, en el cual la naturaleza genere recursos económicos mientras se mantiene y mejora la cantidad y calidad de los recursos naturales existentes, armonizando aspectos biológicos, técnicos y económicos.
+            p El turismo rural debe ser un proceso duradero, en el cual la naturaleza genera recursos económicos mientras se mantiene y mejora la cantidad y calidad de los recursos naturales existentes, armonizando aspectos biológicos, técnicos y económicos.
           .col-lg-5.my-2 
             img.img-a.img-t(src='@/assets/curso/temas/105.png', alt='') 
 
         .row.justify-content-center
           .col-lg-6.my-2
             h5.mb-4 Participación de Actores
-            p En el turismo rural participan diversos actores, por lo que es esencial considerar sus intereses en la planificación. La coordinación debe estar a cargo de las Administraciones Públicas, responsables de controlar el cumplimiento y adoptar medidas correctivas
+            p En el turismo rural participan diversos actores, por lo que es esencial considerar sus intereses en la planificación. La coordinación debe estar a cargo de las Administraciones Públicas, responsables de controlar el cumplimiento y adoptar medidas correctivas.
           .col-lg-5.my-2 
             img.img-a.img-t(src='@/assets/curso/temas/106.png', alt='') 
 

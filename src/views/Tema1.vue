@@ -302,7 +302,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/9ThA7fwS_RA?si=oP3MjNn7JH9FmWk2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
 
     .row.justify-content-center.align-items-center.mb-5      
       .col-lg-8.my-3.order-1

@@ -112,7 +112,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/63410447_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -281,6 +281,26 @@ export default {
         {
           nombre: 'Edward Leonardo Pico Cabra',
           cargo: 'Desarrollador <i>full stack</i>',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: '<i>Storyboard</i> e ilustración',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Daniela Muñoz Bedoya',
+          cargo: 'Animador y productor multimedia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],

@@ -283,7 +283,7 @@
           figure.mb-4.mb-lg-0
             img.mx-auto(src="@/assets/curso/temas/22.svg") 
 
-    p(data-aos="fade-down") a Comisión de la Comunidad Económica ha propuesto la implementación del turismo rural para facilitar la repoblación forestal, el mantenimiento y la continuidad de la actividad agraria, y así conservar el medio natural.   
+    p(data-aos="fade-down") La Comisión de la Comunidad Económica ha propuesto la implementación del turismo rural para facilitar la repoblación forestal, el mantenimiento y la continuidad de la actividad agraria, y así conservar el medio natural.   
 
     Separador 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -748,12 +748,25 @@
             .col-auto(data-aos="flip-down")
               .bg16.px-3
                 h5 Económicos
-          p(data-aos="fade-down") Generación y creación de empleo.
-          p(data-aos="fade-down") Diversificación y dinamismo de la economía local, a través de la valorización de los recursos del territorio.
-          p(data-aos="fade-down") Integración del espacio local en la economía de los servicios.
-          p(data-aos="fade-down") Creación de unidades productivas, como la oferta en pequeña escala de alojamientos, servicios de alimentos y la comercialización de productos in situ.
-          p(data-aos="fade-down") Dinamización del comercio local y aumento de las rentas locales.
-          p(data-aos="fade-down") El campesino se convierte en un proveedor directo. 
+          ul.lista-ul.fa-ul
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Generación y creación de empleo.
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Diversificación y dinamismo de la economía local, a través de la valorización de los recursos del territorio.
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Integración del espacio local en la economía de los servicios.
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Creación de unidades productivas, como la oferta en pequeña escala de alojamientos, servicios de alimentos y la comercialización de productos in situ.
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Dinamización del comercio local y aumento de las rentas locales.
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") El campesino se convierte en un proveedor directo. 
       .col-lg-6.p-0.my-3
         .bg15.p-5.brad.h-100
           .row.justify-content-start.align-items-end.mb-4   
@@ -763,14 +776,32 @@
             .col-auto(data-aos="flip-down")
               .bg16.px-3
                 h5 Sociales
-          p(data-aos="fade-down") Fortalecimiento de la identidad, el arraigo y el desarrollo de la artesanía local.
-          p(data-aos="fade-down") Valorización del territorio por parte de las comunidades locales.
-          p(data-aos="fade-down") Rehabilitación del patrimonio cultural al darle una nueva utilidad para el turismo.
-          p(data-aos="fade-down") Fortalecimiento de la participación de comunidades vulnerables.
-          p(data-aos="fade-down") Equidad de género (participación de mujeres y jóvenes).
-          p(data-aos="fade-down") Fijación de la población rural en áreas con pocas opciones.
-          p(data-aos="fade-down") Mejora de la infraestructura básica para los pobladores.
-          p(data-aos="fade-down") Mantenimiento y conservación de los recursos naturales, culturales y del paisaje tradicional.      
+          ul.lista-ul.fa-ul
+
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Fortalecimiento de la identidad, el arraigo y el desarrollo de la artesanía local.
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Valorización del territorio por parte de las comunidades locales.
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Rehabilitación del patrimonio cultural al darle una nueva utilidad para el turismo.
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Fortalecimiento de la participación de comunidades vulnerables.
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Equidad de género (participación de mujeres y jóvenes).
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Fijación de la población rural en áreas con pocas opciones.             
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Mejora de la infraestructura básica para los pobladores.
+            li 
+              i.fas.fa-angle-right
+              p(data-aos="fade-down") Mantenimiento y conservación de los recursos naturales, culturales y del paisaje tradicional.      
 
     .row.justify-content-center.align-items-center      
       .col-lg-8.my-3.order-1
